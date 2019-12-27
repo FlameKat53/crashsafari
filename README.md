@@ -1,2 +1,4 @@
 # crashsafari
-a mere backup of crashsafari, will not be on github.io
+a backup and showing of crashsafari
+
+https://flamekat53.github.io/crashsafari
